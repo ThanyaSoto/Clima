@@ -1,8 +1,8 @@
 # Clima
 
-Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
-Se consumieron datos de [Weather API] (https://www.weatherapi.com)
-Se utilizaron estilos de [Tailwind css] (https://v2.tailwindcss.com)
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.  
+Se consumieron datos de [Weather API](https://www.weatherapi.com).  
+Se utilizaron estilos de [Tailwind css](https://v2.tailwindcss.com).  
 
 ## Development server
 
